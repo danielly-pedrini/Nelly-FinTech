@@ -2,7 +2,7 @@
   "name": "nelly-fintech",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://danielly-pedrini.github.io/Nelly-FinTech",
+  "homepage": "https://danielly-pedrini.github.io/nelly-fintech/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
